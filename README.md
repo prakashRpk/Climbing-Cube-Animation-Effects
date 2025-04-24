@@ -2,9 +2,9 @@
 
 A visually engaging climbing cube animation using **HTML** and **CSS**. This project demonstrates glowing cube effects with 3D-style rotation and surface movement, ideal for UI/UX animation experiments or landing page designs.
 
-## 🚀 Output
+## 🧷 Live Demo
 
-https://prakashrpk.github.io/Climbing-Cube-Animation-Effects/
+Check out the live version here: [Live Demo](https://prakashrpk.github.io/Climbing-Cube-Animation-Effects/)
 
 ## 🛠️ Technologies Used
 
