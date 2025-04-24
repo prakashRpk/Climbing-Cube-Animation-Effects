@@ -4,8 +4,8 @@ A visually engaging climbing cube animation using **HTML** and **CSS**. This pro
 
 ## 🚀 Demo
 
-![Climbing Cube Demo](demo.gif)  
-*(You can create a screen recording or GIF of your animation and link it here)*
+![Climbing Cube Demo](https://prakashrpk.github.io/Climbing-Cube-Animation-Effects/)  
+https://prakashrpk.github.io/Climbing-Cube-Animation-Effects/
 
 ## 🛠️ Technologies Used
 
