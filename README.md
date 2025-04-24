@@ -29,4 +29,4 @@ climbing-cube-animation/ ├── index.html ├── style.css └── READ
 
 1. Clone or download the repo:
    ```bash
-   git clone https://github.com/yourusername/climbing-cube-animation.git
+   git clone https://github.com/prakashRpk/Climbing-Cube-Animation-Effects.git
